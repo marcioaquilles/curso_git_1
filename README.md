@@ -16,3 +16,8 @@ Layout, Checkout, Banner, Home
 
 1. Criação da Home
 2. Criação Parallax
+
+## Lista de tarefas
+
+- [x] Construir menu.
+- [ ] Implementar rodapé. 
