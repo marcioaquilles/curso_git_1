@@ -10,7 +10,7 @@ Layout, Checkout, Banner, Home
 
 * HTML
 * CSS
-*Java Script
+* Java Script
 
 ## Prioridades
 
